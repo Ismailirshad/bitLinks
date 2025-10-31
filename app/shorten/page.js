@@ -2,7 +2,7 @@
 import Link from 'next/link'
 import React, { useState } from 'react'
 
-function shorten() {
+function Shorten() {
     const [url, seturl] = useState("")
     const [shorturl, setshorturl] = useState("")
     const [generated, setgenerated] = useState("")
@@ -65,4 +65,4 @@ function shorten() {
     )
 }
 
-export default shorten
+export default Shorten
