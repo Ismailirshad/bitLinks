@@ -10,7 +10,7 @@ It allows users to create short, shareable links from long URLs instantly.
 - ✨ Shorten long URLs instantly  
 - 🌐 Generate custom short URLs  
 - 🔁 Redirect users automatically to original links  
-- 📱 Fully responsive and mobile-friendly UI  
+- 📱 Fully responsive UI  
 - ⚡ Built with Next.js App Router  
 - 🧠 Client-side state management using React hooks  
 - 💾 Stores links in MongoDB (via API routes)  
